@@ -21,3 +21,26 @@ If you are already developing the backend and knowing some scripting languages, 
 <li>Write a command that reads the JSON obtained from the above steps and creates a directory structure;</li>
 <li>Consider some of the tasks you will do every day and try to automate them.</li>
 </ul>
+
+<b>Step 3 - Learn Package Manager</b></br>
+<p>After learning the basics of the language and creating some sample applications, you need to know how to use the package manager for that language. The package manager helps you use external libraries in your application and distribute your own libraries for others to use.</p>
+
+<p>If you choose PHP, you will learn Composer, Node.js has NPM or Yarn, Python has Pip, Java has Maven/Gradle and Ruby has RubyGems. No matter what you choose, keep learning how to use its package manager.</p>
+
+<b>Step 4 - Standards and Best Practices</b></br>
+<p>Each language has its own standards and development best practices. For example, PHP has PHP-FIG and PSR. There are many different community-driven guides for using Node.js, and other languages ​​have the same guidance.</p>
+
+<b>Step 5 - Security</b></br>
+<p>Be sure to read about security best practices, read the OWASP guide and learn about different security issues and how to avoid them in the language of your choice.</p>
+
+<b>Step 6 - Practice (Practice)</b></br>
+<p>You have mastered the basics of languages, standards, and best practices, security, and how to use the package manager. Start creating a package and distribute it for others to use, and be sure to follow the standards and best practices you have learned so far. For example, if you choose PHP, you can post it on Packagist, if you choose Node.js, you can post it on Npm, If you choose Java, you can post it on maven and so on.
+</p>
+<p>If it's done, search for some projects on Github and mention some PR in some projects. Here are some Ideas:</p>
+<ul>
+<li>Refactoring and implementing the best practices learned</li>
+<li>View unresolved issues and try to resolve</li>
+<li>Add any additional features</li>
+</ul>
+<b>Step 7 - Learn about Testing</b></br>
+<p>Learn how to write unit tests and integration tests in your application, and learn about different test terms such as mocks, stubsetc.</p>
